@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.appContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+}
+.bannerList {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  padding-left: 0px;
+}
